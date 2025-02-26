@@ -1,5 +1,5 @@
-Streamlit-app
-🚀 Space-Themed AI-Powered Streamlit App
+Streamlit-app🚀
+Space-Themed AI-Powered Streamlit App
 Welcome to the Space-Themed AI-Powered Streamlit App! This project integrates an simple Quiz gam
 Run the Streamlit app:
 sh
